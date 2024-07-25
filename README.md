@@ -1,4 +1,4 @@
-# Computer Aided Design Course Project
+# AutoCAD Calculator
 
 - Designed a 3D calculator using AutoCAD and produced comprehensive documentation for the project
 
